@@ -1,0 +1,10 @@
+{
+  "name": "Arthur",
+  "short_name": "Arthur",
+  "icons": [
+  ],
+  "orientation": "portrait",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
